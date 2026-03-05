@@ -1,4 +1,3 @@
 # Apnacollege-demo
 This is my first Repository.
-<br>
-Author- Neelendra Singh
+Author-Nitin Singh
